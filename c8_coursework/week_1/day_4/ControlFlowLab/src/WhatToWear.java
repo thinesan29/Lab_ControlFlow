@@ -2,7 +2,7 @@ public class WhatToWear {
     public static void main(String[] args) {
 
         int temperature = 33;
-        String condition = "Rainy";
+        String condition = "Sunny";
 
 
         if (temperature <= 3 || condition == "Snow") {
